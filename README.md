@@ -24,12 +24,12 @@
 ![Node-js](https://img.shields.io/badge/Node_js-000?style=for-the-badge&logo=node)
 ![Material-UI](https://img.shields.io/badge/Material_UI-000?style=for-the-badge&logo=material-ui)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
-![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongo-db)
 ![Express-js](https://img.shields.io/badge/Express_js-000?style=for-the-badge&logo=express)
+![Python-js](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorMFL&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Projeto Destaque
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorMFL&repo=API_Poke&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/VictorMFL/API_Poke)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorMFL&repo=Academy&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/VictorMFL/academy)
